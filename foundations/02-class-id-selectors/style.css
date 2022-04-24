@@ -1,12 +1,12 @@
 .class1{
-    background-color: lightpink;
-    font-family: Verdana, DejaVu Sans, sans-serif ;
+    background-color: rgb(212, 122, 135);
+    font-family: Verdana, "DejaVu Sans", sans-serif ;
 }
 #div1{
     color:blue;
     font-size: 32px;
 }
-.class1.class2{
+.class2{
     font-size: 24px;
 }
 #div2{
